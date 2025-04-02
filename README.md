@@ -15,6 +15,9 @@ Funcionalidades Principais
 🖥️ Interface gráfica planejada para facilitar a interação do usuário.
 
 
+
+
+
 Tecnologias Utilizadas
 
 Python 🐍 – Linguagem principal.
